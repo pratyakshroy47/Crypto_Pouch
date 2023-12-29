@@ -1,16 +1,39 @@
-# cryptopouch
+# Crypto Pouch App
 
-A new Flutter project.
+## Overview
+
+Crypto Tracker is a state-of-the-art mobile application designed to provide real-time tracking of cryptocurrency prices. This application utilizes cutting-edge technologies to offer users an intuitive interface, up-to-date market data, and customizable features.
+
+## Features
+
+- **Real-time Data**: Stay informed with live updates on cryptocurrency prices.
+- **Seamless Refreshing**: Enjoy a fluid and intuitive user experience with the app's integrated pull-to-refresh functionality. Just scroll down, and the app will automatically refresh, ensuring you always have up-to-date information at your fingertips.
+- **Lightning-Fast Performance**: Powered by the Dart programming language and expertly crafted with best practices in mind, this app offers unparalleled speed and responsiveness. Navigate swiftly, load data quickly, and experience a lag-free environment that enhances your overall user experience.
+- **User-friendly Interface**: Thoughtfully designed for an optimal user experience.
+- **Video Splash Screen**: Captivate users with an engaging video introduction upon app launch.
+
+## Demo
+
+Experience the app in action by watching the [demo video](https://drive.google.com/file/d/1mdPKF2LlWXKMykfmSkF6xEypcuS0h72W/view?usp=sharing).
+
+## Screenshots & APK
+
+Look out for images and APK of the App [here](https://drive.google.com/drive/folders/16BgMTxbUBhUsbmZHYtH-lwMn1p6V0mb3?usp=sharing)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the steps below to get started with the Crypto Tracker app:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/crypto_tracker_app.git
+1. **Navigate to the project directory**:
+   ```bash
+   cd crypto_tracker_app
+1. **Install dependencies**:
+   ```bash
+   flutter pub get
+1. **Run the app**:
+   ```bash
+   flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
