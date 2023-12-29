@@ -31,15 +31,15 @@ class MyApp extends StatelessWidget {
           textTheme: GoogleFonts.signikaTextTheme().copyWith(
           titleSmall: GoogleFonts.signika(
             fontWeight: FontWeight.bold,
-            fontSize: 20,
+            fontSize: 14,
           ),
           titleMedium: GoogleFonts.signika(
             fontWeight: FontWeight.bold,
-            fontSize: 32,
+            fontSize: 20,
           ),
           titleLarge: GoogleFonts.signika(
             fontWeight: FontWeight.bold,
-            fontSize: 40,
+            fontSize: 32,
           ),
         ),
       ),
