@@ -14,11 +14,12 @@ Crypto Tracker is a state-of-the-art mobile application designed to provide real
 
 ## Demo
 
-Experience the app in action by watching the [demo video]([https://drive.google.com/file/d/1mdPKF2LlWXKMykfmSkF6xEypcuS0h72W/view?usp=sharing](https://drive.google.com/file/d/1cF3V7ALZazaozKzLiSZlXH6ZONSoaMsm/view?usp=sharing)).
+Experience the app in action by watching the [demo video](https://drive.google.com/file/d/1mdPKF2LlWXKMykfmSkF6xEypcuS0h72W/view?usp=sharing](https://drive.google.com/file/d/1cF3V7ALZazaozKzLiSZlXH6ZONSoaMsm/view?usp=sharing)).
 
 ## Screenshots & APK
 
-Look out for images and APK of the App [here](https://drive.google.com/drive/folders/16BgMTxbUBhUsbmZHYtH-lwMn1p6V0mb3?usp=sharing)
+Look out for images and APK of the App [here](https://drive.google.com/file/d/1cF3V7ALZazaozKzLiSZlXH6ZONSoaMsm/view?usp=sharing](https://drive.google.com/file/d/1cF3V7ALZazaozKzLiSZlXH6ZONSoaMsm/view?usp=sharing)).
+
 
 ## Getting Started
 
