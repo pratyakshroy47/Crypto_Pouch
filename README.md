@@ -23,7 +23,7 @@ Look out for images and APK of the App [here](https://drive.google.com/file/d/1c
 
 ## Getting Started
 
-Follow the steps below to get started with the Crypto Tracker app:
+Follow the steps below to get started with the Crypto Pouch app:
 
 1. **Clone the repository**:
    ```bash
